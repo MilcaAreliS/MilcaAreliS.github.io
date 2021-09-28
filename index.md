@@ -3,11 +3,11 @@
 ---
 
 ## Mi primer proyecto
-[Titulo del proyecto con enlace](https://medium.com/pagina-entrada-blog)
+[Mis primeros pasos en este bello universo de los datos](https://medium.com/@sanchez54138)
 
-Escribir una pequeña introducción de este proyecto. [Seguir leyendo en Medium](https://medium.com/pagina-entrada-blog) o [Ver código en GitHub](https://github.com/tu-repo)
+El paso a paso de un análisis exploratorio de datos... [Seguir leyendo en Medium](https://medium.com/@sanchez54138/an%C3%A1lisis-exploratorio-de-clientes-con-python-ed0b97717c) o [Ver código en GitHub](https://github.com/MilcaAreliS/proyecto_portafolio)
 
-[<img src="images/dummy_thumbnail.jpg?raw=true"/>](https://medium.com/pagina-entrada-blog)
+[<img src="images/dummy_thumbnail.jpg?raw=true"/>](https://medium.com/@sanchez54138/an%C3%A1lisis-exploratorio-de-clientes-con-python-ed0b97717c)
 
 ---
 
@@ -15,8 +15,10 @@ Escribir una pequeña introducción de este proyecto. [Seguir leyendo en Medium]
 
 - Python
 - R
-- Excel
-- ...
+- SQL
+- Mongo DB
+- Oracle
+- SAS
 
 ---
 
