@@ -24,10 +24,9 @@ El paso a paso de un análisis exploratorio de datos... [Seguir leyendo en Mediu
 
 ---
 
-Actualmente estoy trabajando en:
-Cargo: Arquitecta de Datos
+-Actualmente estoy trabajando en:
 [Secretaría de Innovación y Transformación Digital](https://www.buenosaires.gob.ar/jefaturadegabinete/innovacion)
-
+-Cargo: Arquitecta de Datos
 
 ---
 
