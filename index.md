@@ -26,11 +26,11 @@ El paso a paso de un análisis exploratorio de datos... [Seguir leyendo en Mediu
 
 ### Me puedes contactar por una de estás vías
 
-- [LinkedIn](https://www.linkedin.com/in/tu-linkedin/)
-- Correo electrónico a <correo@gmail.com>
-- [GitHub](https://github.com/tu-github/)
-- [Twitter](https://twitter.com/tu-twitter)
-- [Medium](https://medium.com/@tu-medium)
+- [LinkedIn](https://www.linkedin.com/in/milca-sanchez/)
+- Correo electrónico a <milcareli_flor@hotmail.com>
+- [GitHub](https://github.com/MilcaAreliS)
+- [Twitter](https://twitter.com/milcareliflor)
+- [Medium](https://medium.com/@sanchez54138)
 - [Mi CV](/pdf/plantilla-curriculum-blanco.pdf)
 
 ---
