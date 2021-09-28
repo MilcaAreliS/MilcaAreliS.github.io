@@ -4,10 +4,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   Data Architec, Data Developer, CABA, Argentina
   <br><br>
   "Mi objetivo es colaborar en el procesamiento de los datos que generamos diariamente, para desarrollar las soluciones más innovadoras posible"
-  <br><br>
-  Tengo experiencia en el analisis de datos con Python y R,
-  en el manejo de bases de datos SQL y en la creación de Api's
-  <br><br>
-  <a href="/pdf/plantilla-curriculum-blanco.pdf">Mira mi Curriculum Vitae (CV) </a> 
+  <br><br> 
   
 theme: jekyll-theme-minimal
