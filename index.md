@@ -13,7 +13,8 @@ El paso a paso de un análisis exploratorio de datos... [Seguir leyendo en Mediu
 
 ### Mis Skills son
 
-- Python <b><b>[Certificado](/pdf/intro-python.pdf)
+- Python
+[Certificado](/pdf/intro-python.pdf)
 - R
 [Certificado](/pdf/intro-R.pdf)
 - SQL
