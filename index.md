@@ -19,14 +19,21 @@ El paso a paso de un análisis exploratorio de datos... [Seguir leyendo en Mediu
 - Mongo DB
 - Oracle
 - SAS
+
+### Cursos
+
 - Google Cloud [Certificado](pdf/CertificadoDeFinalizacion_Google Cloud para administradores IT esencial.pdf)
+- Portafolio de Data Science [Certificado](pdf/Milca Areli Sanchez Flor - 2021-08-09.pdf)
 
 ---
 
--Actualmente estoy trabajando en:
-[Secretaría de Innovación y Transformación Digital](https://www.buenosaires.gob.ar/jefaturadegabinete/innovacion)
+### Actualmente estoy trabajando en:
 
--Cargo: Arquitecta de Datos
+-[Secretaría de Innovación y Transformación Digital](https://www.buenosaires.gob.ar/jefaturadegabinete/innovacion)
+
+### Cargo: 
+
+-Arquitecta de Datos
 
 ---
 
