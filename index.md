@@ -7,7 +7,7 @@
 
 El paso a paso de un análisis exploratorio de datos... [Seguir leyendo en Medium](https://medium.com/@sanchez54138/an%C3%A1lisis-exploratorio-de-clientes-con-python-ed0b97717c) o [Ver código en GitHub](https://github.com/MilcaAreliS/proyecto_portafolio)
 
-[<img src="images/analisis-de-datos.jpg?raw=true"/>](https://medium.com/@sanchez54138/an%C3%A1lisis-exploratorio-de-clientes-con-python-ed0b97717c)
+[<img src="images/analisis-de-datos.jpg?raw=true"/>](https://medium.com/@sanchez54138)
 
 ---
 
