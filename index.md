@@ -3,7 +3,7 @@
 ---
 
 ## Mi primer proyecto
-[Mis primeros pasos en este bello universo de los datos](https://medium.com/@sanchez54138)
+[Mis primeros pasos en este increible universo de datos](https://medium.com/@sanchez54138)
 
 El paso a paso de un análisis exploratorio de datos... [Seguir leyendo en Medium](https://medium.com/@sanchez54138/an%C3%A1lisis-exploratorio-de-clientes-con-python-ed0b97717c) o [Ver código en GitHub](https://github.com/MilcaAreliS/proyecto_portafolio)
 
@@ -21,6 +21,12 @@ El paso a paso de un análisis exploratorio de datos... [Seguir leyendo en Mediu
 - Mongo DB
 - Oracle
 - SAS
+
+---
+
+Actualmente estoy trabajando en:
+[Cargo: Arquitecta de Datos](https://www.buenosaires.gob.ar/jefaturadegabinete/innovacion)
+
 
 ---
 
