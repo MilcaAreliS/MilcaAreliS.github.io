@@ -13,16 +13,13 @@ El paso a paso de un análisis exploratorio de datos... [Seguir leyendo en Mediu
 
 ### Mis Skills son
 
-- Python
-- [Certificado](/pdf/intro-python.pdf)
-- R
-- [Certificado](/pdf/intro-R.pdf)
+- Python [Certificado](/pdf/intro-python.pdf)
+- R [Certificado](/pdf/intro-R.pdf)
 - SQL
 - Mongo DB
 - Oracle
 - SAS
-- Google Cloud
-- [Certificado](pdf/CertificadoDeFinalizacion_Google Cloud para administradores IT esencial.pdf)
+- Google Cloud [Certificado](pdf/CertificadoDeFinalizacion_Google Cloud para administradores IT esencial.pdf)
 
 ---
 
