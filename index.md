@@ -16,7 +16,7 @@ El paso a paso de un análisis exploratorio de datos... [Seguir leyendo en Mediu
 - Python
 [Certificado](/pdf/intro-python.pdf)
 - R
-[Certificado](/pdf/plantilla-curriculum-blanco.pdf)
+[Certificado](/pdf/intro-R.pdf)
 - SQL
 - Mongo DB
 - Oracle
