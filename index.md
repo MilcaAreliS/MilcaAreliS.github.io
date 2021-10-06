@@ -45,6 +45,6 @@ El paso a paso de un análisis exploratorio de datos... [Seguir leyendo en Mediu
 - [GitHub](https://github.com/MilcaAreliS)
 - [Twitter](https://twitter.com/milcareliflor)
 - [Medium](https://medium.com/@sanchez54138)
-- [Mi CV](pdf/1632858987_Milca_Sanchez_CV.pdf)
+- [Mi CV](pdf/Milca_Sanchez_CV.pdf)
 
 ---
