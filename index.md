@@ -34,7 +34,7 @@ El paso a paso de un análisis exploratorio de datos... [Seguir leyendo en Mediu
 
 ### Cargo: 
 
--Arquitecta de Datos
+-[Arquitecta de Datos](images/Captura-milogo.PNG)
 
 ---
 
