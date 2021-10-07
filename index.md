@@ -30,11 +30,11 @@ El paso a paso de un análisis exploratorio de datos... [Seguir leyendo en Mediu
 
 ### Actualmente estoy trabajando en:
 
--[<img src="images/gif-secretaria.gif?raw=true"/>](https://www.buenosaires.gob.ar/jefaturadegabinete/innovacion)
+[<img src="images/gif-secretaria.gif?raw=true"/>](https://www.buenosaires.gob.ar/jefaturadegabinete/innovacion)
 
 ### Cargo: 
 
--[Arquitecta de Datos](images/Captura-milogo.PNG)
+[Arquitecta de Datos](images/Captura-milogo.PNG)
 
 ---
 
