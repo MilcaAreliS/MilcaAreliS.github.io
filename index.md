@@ -18,7 +18,7 @@ El paso a paso de un análisis exploratorio de datos... [Seguir leyendo en Mediu
 - SQL
 - Mongo DB
 - Oracle
-- SAS
+- SAS [Certificado](/pdf/SAS DATA Integration 19102021 Sanchez.pdf)
 
 ### Cursos
 
