@@ -22,7 +22,8 @@ El paso a paso de un análisis exploratorio de datos... [Seguir leyendo en Mediu
 
 ### Cursos
 
-- Google Cloud [Certificado](pdf/CertificadoDeFinalizacion_Google Cloud para administradores IT esencial.pdf)
+- Python Data Developer [Certificado](https://certificado.eant.tech/eyJzIjoiNDQ3ODI5ODA1IiwiaSI6InhydjVoMHp1eDJlIn0)
+-  Google Cloud [Certificado](pdf/CertificadoDeFinalizacion_Google Cloud para administradores IT esencial.pdf)
 - Portafolio de Data Science [Certificado](pdf/Milca Areli Sanchez Flor - 2021-08-09.pdf)
 - Introducción al análisis de datos para la gestión del talento [Certificado](pdf/Analisis-de-datos-UBA-RRHH.pdf)
 
