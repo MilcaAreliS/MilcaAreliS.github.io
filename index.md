@@ -19,7 +19,7 @@ El paso a paso de un análisis exploratorio de datos... [Seguir leyendo en Mediu
 - Mongo DB
 - Oracle
 - SAS [Certificado](/pdf/SAS DATA Integration 19102021 Sanchez.pdf)
-- Google Analitycs [Certificado](pdf/Certificado-GA.pdf)
+- Google Analytics [Certificado](pdf/Certificado-GA.pdf)
 
 ### Cursos
 
