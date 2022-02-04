@@ -15,13 +15,17 @@ El paso a paso de un análisis exploratorio de datos... [Seguir leyendo en Mediu
 
 - Python [Certificado](/pdf/intro-python.pdf)
 - R [Certificado](/pdf/intro-R.pdf)
-- SQL
+- SQL [Certificado](pdf/Certificado-MySQL.pdf)
 - Mongo DB
 - Oracle
 - SAS [Certificado](/pdf/SAS DATA Integration 19102021 Sanchez.pdf)
+- Google Analitycs [Certificado](pdf/Certificado-GA.pdf)
 
 ### Cursos
 
+- Manejo de Base de Datos [Certificado](pdf/Certificado_recorrido_base_de_datos.pdf)
+- Evaluación y Big Data [Certificado](pdf/Certificado-Evaluaciónybigdata.pdf)
+- Visualización de Datos [Certificado](pdf/Certificado-visualizacion.pdf)
 - Ciberseguridad (Conceptos fundamentales) [Certificado](pdf/Ciberseguridad.pdf)
 - Python Data Developer [Certificado](https://certificado.eant.tech/eyJzIjoiNDQ3ODI5ODA1IiwiaSI6InhydjVoMHp1eDJlIn0)
 - Google Cloud [Certificado](pdf/CertificadoDeFinalizacion_Google Cloud para administradores IT esencial.pdf)
