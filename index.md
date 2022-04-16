@@ -40,6 +40,8 @@ El paso a paso de un análisis exploratorio de datos... [Seguir leyendo en Mediu
 
 <img src="images/logo-equifax.PNG?raw=true"/>
 
+### Cargo:
+
 Cloud Platform Engineer LATAM
 
 ---
