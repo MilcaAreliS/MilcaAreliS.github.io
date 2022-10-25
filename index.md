@@ -25,6 +25,7 @@ El paso a paso de un análisis exploratorio de datos... [Seguir leyendo en Mediu
 
 ### Cursos
 
+- Linux [Certificado](pdf/Cert-Linux.pdf)
 - Manejo de Base de Datos [Certificado](pdf/Certificado_recorrido_base_de_datos.pdf)
 - Evaluación y Big Data [Certificado](pdf/Certificado-Evaluaciónybigdata.pdf)
 - Visualización de Datos [Certificado](pdf/Certificado-visualizacion.pdf)
