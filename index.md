@@ -1,5 +1,19 @@
 # Bienvenidx a mi Portfolio de Ciencia de Datos
 
+Mi nombre es Milca Areli, me gusta que me digan Areli, este es mi primer proyecto
+cada tanto vuelvo a actualizar está pagina que me abrió las puertas a mi primer trabajo,
+hoy tengo el cargo de Cloud Platform Engineer, pero hago un poco tareas de SRE y de
+a poco me fui involucrando con Terraform más desde la mirada DevOps, trabajo tanto con 
+GCP como también con AWS, armando Plataformas con código Terraform y deployando con Jenkins,
+desde solicitar los tenant code hasta verificar la funcionalidad de cada herramienta 
+dentro de la plataforma deployada, también ayudando en la documentación necesaria
+para respaldar la seguridad dentro de la misma.
+Por los datos tengo un cariño  especial, conciderando la carrera que estoy siguiendo,
+cada vez que tengo que migrar data de una plataforma a otra, crear tablas, datasets, etc
+voy poniendo en práctica lo aprendido en la Universidad, sin dudas aprendí muchisimo hasta 
+el día de hoy y ese sigue siendo mi mayor motivación, llenar mi sed de conocimientos sobre
+está área que me apasiona tanto.
+
 ---
 
 ## Mi primer proyecto
